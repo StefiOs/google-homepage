@@ -1,3 +1,3 @@
 # google-homepage
 
-In this project I attempted to recreate the google homepage using basic html and css. 
+In this project I recreated the google homepage using basic html and css. 
